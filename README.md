@@ -1,6 +1,6 @@
 # Nikki Prompt Lab
 
-A Claude Code skill by Nikki Harvey for writing generation-ready prompts for AI image and video tools. It covers three modes: image prompts, single-shot video prompts, and multi-shot video sequences.
+A Claude Code skill by Nicola Harvey for writing generation-ready prompts for AI image and video tools. It covers three modes: image prompts, single-shot video prompts, and multi-shot video sequences.
 
 ## What it does
 
@@ -63,4 +63,4 @@ If your request is ambiguous between image and video, Claude will ask one clarif
 
 ---
 
-Part of the **Nikki** suite of AI tools by [Nikki Harvey](https://linkedin.com/in/nicolakharvey).
+Part of the **Nikki** suite of AI tools by [Nicola Harvey](https://linkedin.com/in/nicolakharvey).
