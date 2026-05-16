@@ -1,6 +1,6 @@
-# ai-prompt-builder
+# Nikki Prompt Lab
 
-A Claude Code skill for writing generation-ready prompts for AI image and video tools. It covers three modes: image prompts, single-shot video prompts, and multi-shot video sequences.
+A Claude Code skill by Nikki Harvey for writing generation-ready prompts for AI image and video tools. It covers three modes: image prompts, single-shot video prompts, and multi-shot video sequences.
 
 ## What it does
 
@@ -39,16 +39,16 @@ Builds a complete timestamped shot sequence for multi-shot video work. Used for 
 Clone the repo directly into your skills directory:
 
 ```bash
-git clone https://github.com/nicolakharvey/ai-prompt-builder.git ~/.claude/skills/ai-prompt-builder
+git clone https://github.com/nicolakharvey/nikki-prompt-lab.git ~/.claude/skills/nikki-prompt-lab
 ```
 
 Claude Code picks up skills from `~/.claude/skills/` automatically. No restart needed.
 
-## Installing for Claude.ai
+## Installing for Claude desktop
 
 1. Download or clone this repo.
-2. Zip the `ai-prompt-builder` folder.
-3. In Claude.ai, go to Settings > Capabilities > Skills.
+2. Zip the `nikki-prompt-lab` folder.
+3. In Claude desktop, go to Settings > Capabilities > Skills.
 4. Upload the zip file.
 
 ## Using the skill
@@ -60,3 +60,7 @@ Once installed, describe what you want to generate and Claude will use this skil
 > "Build me a multi-shot sequence for a 30-second video about..."
 
 If your request is ambiguous between image and video, Claude will ask one clarifying question before building the prompt.
+
+---
+
+Part of the **Nikki** suite of AI tools by [Nikki Harvey](https://linkedin.com/in/nicolakharvey).

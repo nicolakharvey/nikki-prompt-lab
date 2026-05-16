@@ -1,5 +1,5 @@
 ---
-name: ai-prompt-builder
+name: nikki-prompt-lab
 description: Generate high-quality AI prompts for image generation, single-shot video, and multi-shot video sequences. Use this skill whenever the user wants to write a prompt for any AI image or video tool — Midjourney, Flux, Stable Diffusion, Firefly, Veo, Kling, Runway, Seedance, Sora, Hailuo, or any other generator. Trigger on phrases like "write me a prompt", "image prompt", "video prompt", "multi-shot sequence", "shot list", "scene breakdown", "timestamp prompting", "storyboard prompts", "ingredients to video", "first and last frame", or any time the user describes what they want to see and needs it translated into generation-ready instructions. Also trigger when the user describes a vibe, visual style, character, or scenario and seems to want an image or video — even if they haven't said "write a prompt" explicitly.
 ---
 
