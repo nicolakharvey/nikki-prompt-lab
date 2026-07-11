@@ -1,6 +1,6 @@
 ---
 name: nikki-prompt-lab
-description: Generate high-quality AI prompts for image generation, single-shot video, and multi-shot video sequences. Use this skill whenever the user wants to write a prompt for any AI image or video tool — Midjourney, Flux, Stable Diffusion, Firefly, Veo, Kling, Runway, Seedance, Sora, Hailuo, or any other generator. Trigger on phrases like "write me a prompt", "image prompt", "video prompt", "multi-shot sequence", "shot list", "scene breakdown", "timestamp prompting", "storyboard prompts", "ingredients to video", "first and last frame", or any time the user describes what they want to see and needs it translated into generation-ready instructions. Also trigger when the user describes a vibe, visual style, character, or scenario and seems to want an image or video — even if they haven't said "write a prompt" explicitly.
+description: Generate high-quality AI prompts for image generation, single-shot video, and multi-shot video sequences. Use this skill whenever the user wants to write a prompt for any AI image or video tool (Midjourney, Flux, Stable Diffusion, Firefly, Veo, Kling, Runway, Seedance, Sora, Hailuo, or any other generator). Trigger on phrases like "write me a prompt", "image prompt", "video prompt", "multi-shot sequence", "shot list", "scene breakdown", "timestamp prompting", "storyboard prompts", "ingredients to video", "first and last frame", or any time the user describes what they want to see and needs it translated into generation-ready instructions. Also trigger when the user describes a vibe, visual style, character, or scenario and seems to want an image or video, even if they haven't said "write a prompt" explicitly. Do NOT use for logo or visual-identity work (that is nikki-logo-lab), or for building and rendering HyperFrames video compositions (that is nikki-video-lab); this skill writes generation-ready prompts, it does not run the generation itself.
 ---
 
 # AI Prompt Builder
@@ -100,7 +100,7 @@ Four sections (see `references/multishot-prompting.md` for full detail):
 | Veo 3.1 | 4–8s | ✅ Full | Timestamp format | Strongest audio. Use ingredients-to-video for consistency. |
 | Kling 2.1 | 5–10s | ✅ Partial | Scene planning | Strong character consistency |
 | Runway Gen-4 | 5–10s | ❌ | Manual | Excellent motion quality |
-| Seedance 2.0 | 4–8s | ❌ | Manual | Use video-prompt-builder skill for effects-heavy work |
+| Seedance 2.0 | 4–8s | ❌ | Manual | Detail each effect explicitly for effects-heavy work |
 | Hailuo | 6s | ❌ | Manual | Great for stylized/cinematic |
 | Sora | Up to 20s | ❌ | Storyboard mode | Good for longer single shots |
 

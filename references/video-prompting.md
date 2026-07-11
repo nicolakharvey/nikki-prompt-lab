@@ -196,7 +196,7 @@ SFX: The creak of the chair. Street noise from below. A clock ticking.
 - Works well with reference images for character anchoring
 
 ### Seedance 2.0
-- Use the video-prompt-builder skill for effects-heavy Seedance work
+- Detail each effect explicitly for effects-heavy Seedance work
 - For simple single shots, this formula works fine
 
 ### Hailuo / MiniMax
